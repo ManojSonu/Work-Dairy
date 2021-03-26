@@ -1,8 +1,7 @@
 Work Dairy for 6th semester.
 
 22/03/2021
-	Started learning about the Django Framework. Learnt how to run the sever and create the app using CLI and also started exploring the
-	available open source api documentation.
+	Started learning about the Django Framework. Learnt how to run the sever and create the app using CLI and also started exploring the available open source api documentation.
 
 23/03/2021
 
